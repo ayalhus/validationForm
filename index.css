@@ -1,0 +1,75 @@
+#container {
+    text-align: center;
+    background-color: #d6cbd3;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 20px;
+    
+    
+  }
+  
+  
+  
+  
+  #first-name{
+    padding: 10px;
+    margin: 10px;
+    background-color: #eee;
+    border-radius: 5px;
+    
+  }
+  
+  #last-name{
+    padding: 10px;
+    margin: 10px;
+    background-color: #eee;
+    border-radius: 5px;
+  
+    
+  }
+  
+  #age{
+    padding: 10px;
+    margin: 10px;
+    background-color: #eee;
+    border-radius: 5px;
+  
+    
+  }
+  
+  
+  #yourGender{
+    padding: 10px;
+    margin: 10px;
+    background-color: #eee;
+    border-radius: 5px;
+  
+    
+  }
+  
+  #btn {
+    border: 2px solid #bdcebe;
+    border-radius: 12px;
+    padding: 15px;
+    margin-top: 70px;
+    background-color: #eca1a6;
+  }
+  
+  #btn:hover {background-color: #d64161}
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
